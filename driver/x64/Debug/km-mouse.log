@@ -1,0 +1,18 @@
+﻿  Assembling mouse\mouse.asm...
+  dispatch.c
+F:\downloads\mouse mov sexy\mouse mov sexy\mouse mov\driver\utils\defs.h(2,10): error C1083: Cannot open include file: 'ntifs.h': No such file or directory
+  (compiling source file 'communication/dispatch.c')
+  
+  main.c
+F:\downloads\mouse mov sexy\mouse mov sexy\mouse mov\driver\utils\defs.h(2,10): error C1083: Cannot open include file: 'ntifs.h': No such file or directory
+  (compiling source file 'main.c')
+  
+  memory.c
+F:\downloads\mouse mov sexy\mouse mov sexy\mouse mov\driver\utils\defs.h(2,10): error C1083: Cannot open include file: 'ntifs.h': No such file or directory
+  (compiling source file 'memory/memory.c')
+  
+  process.c
+F:\downloads\mouse mov sexy\mouse mov sexy\mouse mov\driver\utils\defs.h(2,10): error C1083: Cannot open include file: 'ntifs.h': No such file or directory
+  (compiling source file 'memory/process.c')
+  
+  Generating Code...
